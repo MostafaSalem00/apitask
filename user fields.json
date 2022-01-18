@@ -6,5 +6,6 @@
   	"mobileNumber": "string",
   	"city": 0,
   	"yearOfBirth": 0,
-  	"acceptTerms": true
+  	"acceptTerms": true,
+	"subscirbedEndDate" : ""
 }
