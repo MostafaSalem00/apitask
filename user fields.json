@@ -1,0 +1,10 @@
+{
+	"email": "string",  
+  	"fullName": "string",
+	"studingYear": 0,
+  	"password": "string",
+  	"mobileNumber": "string",
+  	"city": 0,
+  	"yearOfBirth": 0,
+  	"acceptTerms": true
+}
